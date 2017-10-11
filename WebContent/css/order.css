@@ -1,0 +1,61 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#order_h{
+	height:50px;
+	width:100%;
+	border: 1px solid white;
+	background-color:#95A5A6;
+	border-bottom:10px solid darkgreen ;
+	box-shadow: 0px 2px 2px #aaa;
+}
+#order_h p{
+  margin-left:30px ;
+  margin-top: 5px;
+  font-size:18px;
+  
+}
+
+
+#order_h p:hover:hover{
+	color: black;
+}
+
+
+/*
+ * 第一张表
+ */
+#td_head01{
+	background-color:#859FA5 ;
+}
+#td_head01 {
+	border-left:10px solid darkgreen ;
+	
+	height: 50px;
+	font-size:18px ;
+	
+}
+#table1{
+	margin-top: 5px;
+}
+#table2{
+	margin-top: 10px;
+}
+
+#table3{
+	margin-top: 10px;
+}
+#table4{
+	margin-top: 10px;
+}
+#shijian{
+height: 30px;
+border: 1px solid white;
+text-align: right;
+line-height: 30px;
+}
+#shijian button{
+height: 30px;
+width: 60px;
+}

@@ -1,0 +1,149 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#big{
+	background-color: whitesmoke;
+	width: 100%;
+	height: 100%;
+
+}
+#head_01{
+	height: 80px;
+	width: 100%;
+	border: 1px solid #999999;
+    border-bottom: 5px solid  #AAAAAA;
+}
+#head_01 p{
+	font-size:20px ;
+	font-family:"微软雅黑" ;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#kuang1{
+	height: 600px;
+	width: 1500px;
+	margin: 0px auto;
+	margin-top: 30px;
+	border: 1px solid red;
+	background-color: white;
+	
+}
+#kuang1 p{
+	height:40px;
+	padding-left:30px ;
+	margin-top: 15px;
+	border-bottom:1px solid #AAAAAA;
+}
+#kuang1 table{
+	margin: 70px auto;
+	font-size:18px ;
+}
+#kuang1 .td01{
+	width:300px;
+	text-align: right;
+}
+#kuang1 #input01{
+	width:600px ;
+	height: 30px;
+	margin-left: 20px;
+}
+#kuang1 .input02{
+	width:300px ;
+	height: 30px;
+	margin-left: 20px;
+}
+#select_{
+	width:100px ;
+	height: 30px;
+	margin-left: 20px;
+}
+#checkbox_{
+		margin-left: 20px;
+}
+
+/*第二框*/
+#kuang2{
+	height: 250px;
+	width: 1500px;
+	margin: 0px auto;
+	margin-top: 30px;
+	border: 1px solid red;
+	background-color: white;
+}
+#kuang2 #_p{
+	height:40px;
+	padding-left:30px ;
+	margin-top: 15px;
+	border-bottom:1px solid #AAAAAA;
+}
+#kuang2 .fx #yuan{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	
+	background-color: #3E3E3E;
+	
+	margin: 30px auto;
+}
+#kuang2 .fx #yuan:hover a{
+	background-color: #AAAAAA;
+	color: white;
+}
+#kuang2 .fx #yuan:hover{
+	background-color: #AAAAAA;
+}
+#kuang2 .fx #yuan a{
+  text-decoration: none;
+  font-size: 28px;
+  color: #AAAAAA;
+}
+#kuang2 .fx{
+	height: 100px;
+	width: 100px;
+	border: 1px solid #3E3E3E;
+	margin: 30px auto;
+	text-align: center;
+	line-height: 45px;
+	margin-left:160px ;
+	float: left;
+}
+#kuang2 .fx img{
+	height: 100px;
+	width: 100px;
+}
+#kuang3{
+	height: 500px;
+	width: 1500px;
+	margin: 0px auto;
+	margin-top: 30px;
+	border: 1px solid red;
+	background-color: white;
+}
+
+#kuang3 p{
+	height:40px;
+	padding-left:30px ;
+	margin-top: 15px;
+	border-bottom:1px solid #AAAAAA;
+}
+#kuang3 #cke_editor1{
+	height: 300px;
+	width: 1300px;
+	margin-left: 50px;
+	margin-top: 30px;
+	
+}
+#kuang3  #last_But{
+	height: 30px;
+	width: 100px;
+	border: 1px solid aquamarine;
+	margin:  30px auto;
+}
+#kuang3  #last_But button{
+	height: 30px;
+	width: 100px;
+	border: 1px solid aquamarine;
+	background-color: #0078CA;
+	border-radius: 5px;
+}

@@ -1,0 +1,81 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#address{
+	background-color:beige;
+	padding: 10px 0px 0px 0px;
+}
+#address p{
+	font-size: 18px;
+	margin-left: 10px;
+	padding-bottom: 8px;
+}
+#bj_head{
+	background-color: white;
+	height: 60px;
+	border-bottom: 2px solid #AAAAAA;
+	box-shadow: 0px 3px 2px #AAAAAA;
+}
+#bj_head .tj{
+	margin-left: 20px;
+}
+#bj_head .tj,.sc,.hs{
+	border-radius:15px;
+	width: 80px;
+	height: 25px;
+	margin-top: 20px;
+}
+#bj_head input{
+	width: 250px;
+	height: 35px;
+	margin-left: 800px;
+}
+#bj_head .ssuo{
+	width: 80px;
+	height: 40px;
+}
+#lieb_  table {
+	text-align: center;
+}
+#lieb_  table tr{
+	height: 45px;
+	/*background-color:darkgrey;*/
+	
+	font-family: "微软雅黑";
+}
+#lieb_  table tr #th01{
+	width: 50px;
+}
+#lieb_  table tr #th01 input{
+	width: 20px;
+	height: 20px;
+}
+#lieb_  table tr #th02{
+	width: 120px;
+	text-align: center;
+}
+#lieb_  table tr #th03{
+	width: 600px;
+	text-align: center;
+}
+#lieb_  table tr #th04{
+	width: 100px;
+	text-align: center;
+}
+#lieb_  table tr #th05{
+	width: 100px;
+	text-align: center;
+}
+#lieb_  table tr #th06{
+	width: 100px;
+	text-align: center;
+	
+}
+#lieb_  table tr #th07{
+		width: 150px;
+	text-align: left;
+}
+.qqq tr:hover,.qqq tr.altrow{
+	background-color:#999;
+}

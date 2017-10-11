@@ -1,0 +1,63 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#span{
+	padding-top: 25px;
+	 height: 40px;
+	 background-color:#aaa;
+	 color: black;
+	 font-size: 18px;
+}
+#add_lm{
+	
+	height: 50px;
+    text-align: center;
+    box-shadow: 0px 2px 10px #aaa;
+}
+#add_lm input{
+	height: 40px;
+	width: 40%;
+	margin-top: 5px;
+	font-size: 16px;
+}
+#add_lm select{
+	height: 40px;
+	width: 40%;
+	margin-top: 5px;
+	font-size: 16px;
+	
+}
+#add_lm select option{
+	 width: 650px; 
+	height: 30px;
+}
+#add_lm button{
+	height: 45px;
+	width: 120px;
+	margin-top: 5px;
+	font-size: 16px;
+}
+#page{
+	height: 30px;
+	width: 800px;
+    font-size:16px ;
+	text-align: center;
+	margin: 50px auto;
+}
+#page a{
+	text-decoration: none;
+}
+table{
+	 font-size:16px ;
+	 text-align: center;
+}
+table td a{
+	text-decoration: none;
+	color: #000000;
+}
+table td a:hover{
+	
+	color: #0078CA;
+	cursor: pointer;
+}
